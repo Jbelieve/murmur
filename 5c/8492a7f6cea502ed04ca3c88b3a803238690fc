@@ -1,0 +1,21 @@
+internal/daemon/daemon.go
+  s_769bae67959473::t_9e9ba5c8db0754 339,378-394
+internal/daemon/daemon_test.go
+  s_769bae67959473::t_4e7419b1e07007 272-276
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5c8492a7f6cea502ed04ca3c88b3a803238690fc",
+  "prompts": {},
+  "sessions": {
+    "s_769bae67959473": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "92f4e551-8f46-416d-9997-7d476bc2e62c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Jbelieve <jorge@believe-global.com>"
+    }
+  }
+}
