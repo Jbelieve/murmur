@@ -1,0 +1,23 @@
+internal/harness/claude/ask_test.go
+  s_33c764a9444ede::t_4bf2a9125e4dd2 42
+  s_33c764a9444ede::t_704d35c49e115e 331-361
+  s_33c764a9444ede::t_a479c064050881 66-69
+internal/harness/claude/ask.go
+  s_33c764a9444ede::t_a056d27c8a837e 129-148,164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "02b6b4cd1b63807d75cc7c4a043e4cedbafca7b9",
+  "prompts": {},
+  "sessions": {
+    "s_33c764a9444ede": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d875ee4a-8e53-4242-ad30-bdd9db1532c3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Jbelieve <jorge@believe-global.com>"
+    }
+  }
+}
